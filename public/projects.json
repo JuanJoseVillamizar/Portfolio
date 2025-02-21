@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Forum Hub",
+    "category": "Backend",
+    "image": "images/project-1.jpg",
+    "gitHub": "https://github.com/JuanJoseVillamizar/ForoHub"
+  },
+  {
+    "id": 2,
+    "title": "LiterAlura",
+    "category": "Backend",
+    "image": "images/project-9.jpg",
+    "gitHub": "https://github.com/JuanJoseVillamizar/Challenge-Literalura"
+  },
+  {
+    "id": 3,
+    "title": "Hangman-Word-Game",
+    "category": "Backend",
+    "image": "images/project-4.jpg",
+    "gitHub": "https://github.com/JuanJoseVillamizar/Hangman-Word-Game-"
+  },
+  {
+    "id": 4,
+    "title": "Text-Encryptor",
+    "category": "Front-end",
+    "image": "images/project-10.png",
+    "gitHub": "https://github.com/JuanJoseVillamizar/Text-Encryptor"
+  },
+  {
+    "id": 5,
+    "title": "BankTemis",
+    "category": "Full stack",
+    "image": "images/project-11.png",
+    "gitHub": "https://github.com/JuanJoseVillamizarCampus1/CajeroFinal1.0"
+  }
+
+]

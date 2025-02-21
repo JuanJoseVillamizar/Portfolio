@@ -1,0 +1,12 @@
+[
+  {
+    "name": "REST API",
+    "avatar": "/images/icon-api.svg",
+    "technology": "API development with Spring Boot and Node.js. Handling RESTful APIs, security and JWT Authentication."
+  },
+  {
+    "name": "Databases",
+    "avatar": "/images/icon-db.svg",
+    "technology": "Modeling and optimized queries in PostgreSQL and MongoDB."
+  }
+]
