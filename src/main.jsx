@@ -8,7 +8,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import About from './pages/about/About.jsx';
-import Resume from './pages/resume/resume.jsx';
+import Resume from './pages/resume/Resume.jsx';
 import Projects from './pages/projects/Projects.jsx';
 
 const router = createBrowserRouter([
