@@ -13,10 +13,10 @@ const servicesData = [
       'Managing SQL and NoSQL databases, ensuring data integrity, performance, and security.',
   },
   {
-    title: 'Microservices Architecture',
+    title: 'REST API Development',
     icon: '/images/icon-photo.svg',
     description:
-      'Developing distributed systems with independent services, improving scalability and maintainability.',
+      'Designing and developing secure REST APIs following best practices and clean architecture.',
   },
   {
     title: 'API Development',
@@ -34,16 +34,16 @@ const About = () => {
       </header>
       <section className="about-text">
         <p>
-          💻 Software Developer with over one year of professional experience
-          maintaining and developing enterprise ERP systems. Experienced in
+          💻Software Developer with over one year of professional experience
+          developing and maintaining enterprise ERP systems. Experienced in
           backend development, SQL Server, business logic implementation,
-          debugging complex production issues and designing reliable software
-          solutions
+          debugging complex production issues, and building reliable software
+          solutions.
         </p>
         <p>
-          I focus on writing clean, maintainable code and building robust
-          architectures that align seamlessly with business goals. Passionate
-          about proactive problem-solving, root-cause analysis, and continuous
+          I focus on writing clean, maintainable code and building scalable
+          applications that align with business goals. Passionate about
+          proactive problem-solving, root-cause analysis, and continuous
           learning to deliver high-quality backend systems.
         </p>
       </section>
@@ -107,7 +107,7 @@ const About = () => {
               <img src="/images/mysql-logo.webp" alt="mysql-logo" />
             </li>
             <li className="logos-item">
-              <img src="/images/sqlite-logo.webp" alt="mysql-logo" />
+              <img src="/images/sqlite-logo.webp" alt="sqlite-logo" />
             </li>
           </ul>
         </section>
@@ -147,7 +147,7 @@ const About = () => {
             </li>
             <li className="logos-item">
               <img src="/images/github-logo.png" alt="github-logo" />
-              <h5 className="h5">Git hub</h5>
+              <h5 className="h5">GitHub</h5>
             </li>
             <li className="logos-item">
               <img src="/images/postman-logo.webp" alt="postman-logo" />
